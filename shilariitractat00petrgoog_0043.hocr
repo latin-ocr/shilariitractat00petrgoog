@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./shilariitractat00petrgoog_0043.png"; bbox 0 0 4622 6572; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 774 2712 1289 2858">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 774 2712 1289 2858">
+     <span class='ocr_line' id='line_1_1' title="bbox 774 2712 1289 2858; baseline -0.01 -16"><span class='ocrx_word' id='word_1_1' title='bbox 774 2713 834 2842; x_wconf 85' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 901 2712 1289 2858; x_wconf 84' lang='lat' dir='ltr'>HILARH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 491 3029 1567 3100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 491 3029 1567 3100">
+     <span class='ocr_line' id='line_1_2' title="bbox 491 3029 1567 3100; baseline -0.001 -4"><span class='ocrx_word' id='word_1_3' title='bbox 491 3029 821 3099; x_wconf 81' lang='lat' dir='ltr'><strong>TRACTATVS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 859 3029 923 3098; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 962 3029 1249 3100; x_wconf 88' lang='lat' dir='ltr'><strong>MYSTERIIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1287 3029 1352 3098; x_wconf 90' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1390 3029 1567 3098; x_wconf 89' lang='lat' dir='ltr'>HYMNI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 949 3301 1108 3309">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 949 3301 1108 3309">
+     <span class='ocr_line' id='line_1_3' title="bbox 949 3301 1108 3309; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 949 3301 1022 3309; x_wconf 76' lang='lat'><em>——-·-</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1031 3303 1108 3309; x_wconf 79' lang='grc'><strong><em>.-.---</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2316 6564">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2316 6564">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2316 6564; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2316 6564; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
